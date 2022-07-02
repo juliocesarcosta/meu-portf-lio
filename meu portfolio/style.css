@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+}
+.logo{
+    width: 50px;
+}
+
+.butoons{
+    display: flex;
+    gap: 10px;
+}
+.buttonheader{
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: transparent;
+    border-color:white;
+    color: white;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.buttonheader:hover{
+    border-color:blue;
+}
+a{
+    color: white;
+}
+h3{
+    color: white;
+}
+body{
+    background-image: url(./images/javascript.jpeg);
+    background-repeat: no-repeat;
+    background-position: right 0;
+    background-size: cover;
+    
+
+}
+ul{
+    font-size: 20px;
+    color: blue;
+}
+h1{
+    font-size: 50px;
+}
+.script{
+    width: 200px;
+}
