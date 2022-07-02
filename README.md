@@ -1,3 +1,3 @@
-# meu-portf-lio
+# meu-portflio
 Primeiro Portfólio Simples
-meu primeiros codigos sem ajuda.
+meus primeiros codigos sem ajuda.
